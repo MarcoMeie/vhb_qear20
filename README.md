@@ -9,6 +9,8 @@ _If you are here and not a course member, feel free to browse around. Unfortunat
 
 ### Class project
 
+123 Test 456
+
 We will use this repository to collaborate on the class project that will explore German firms that currently file for insolvency. While the main purpose of the project is didactic in the sense that I want you to work on a data exercise to get familiar with a typical empirical workflow, I believe that it is also interesting to look at current insolvency cases from an economic standpoint. First, the corona crisis presents us with an extreme negative liquidity shock that varies predictably in the cross-section. Second, the German regulator has temporarily lifted the requirement for German firms to file for insolvency. Taken together, this provides us with a unique setting that, in the longer run, might provide some interesting quasi-experiments.
 
 While the project B02 of [TRR 266](https://www.accounting-for-transparency.de) will explore this setting in its research program, the objective of our class project is to document descriptively how firms that currently file for insolvency differ from the universe of German firms. For this, I provide you two datasets:
